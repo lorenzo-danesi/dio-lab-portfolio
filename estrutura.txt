@@ -1,0 +1,8 @@
+lorenzo-danesi.github.io (privado)
++ README.md
+
+- clonar para a máquina utilizada
+
+EXTENSIONS/plugins:
+- Live Server
+- Figma for VS Code
